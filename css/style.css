@@ -1,0 +1,38 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#usr-nm {
+   color: white;
+}
+
+#bg-clr { background-color: dodgerblue;
+
+}
+#submit-btn {
+ background-color: white;
+}
+
+a {
+  color: aliceblue;
+}
+
+#forget-bg {
+  background-color:dodgerblue;
+}
+p {
+  color: aliceblue;
+}
+#mail-bg {
+  color: aliceblue;
+}
+#reg-bg {
+  background-color: dodgerblue;
+}
+#reg-frm {
+  color: aliceblue;
+}
+p {
+  color: aliceblue;
+}
